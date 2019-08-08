@@ -1,4 +1,5 @@
 access.log
+db_config.txt
 
 #Demo/example
 
@@ -11,3 +12,4 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
+
